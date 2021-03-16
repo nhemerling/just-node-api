@@ -1,0 +1,12 @@
+{
+  "name": "just-node-api",
+  "version": "1.0.0",
+  "description": "what does a naked node api look like? here to find out.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "nhemerling",
+  "license": "ISC"
+}
