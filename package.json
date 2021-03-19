@@ -8,5 +8,9 @@
   },
   "keywords": [],
   "author": "nhemerling",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^4.1.0",
+    "progress": "^2.0.3"
+  }
 }
